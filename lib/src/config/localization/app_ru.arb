@@ -1,0 +1,17 @@
+{
+  "@@locale": "ru",
+  "@segmentMain": {
+    "---------": "---------"
+  },
+  "titleBottomSheet": "Ваш заказ",
+  "reboot": "Перезагрузить",
+  "placeAnOrderBottomSheet": "Оформить заказ",
+  "chooseAddress": "Выберите адрес кофейни",
+  "orderCreated": "Заказ был создан!",
+  "errorOrder": "При оформлении заказа произошла ошибка!",
+  "@segmentMapScreen": {
+    "---------": "---------"
+  },
+  "selectMapScreenBottomSheet": "Выбрать",
+  "ourCoffeeShops": "Наши кофейни"
+}

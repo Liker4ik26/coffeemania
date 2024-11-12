@@ -1,0 +1,17 @@
+{
+  "@@locale": "en",
+  "@segmentMain": {
+    "---------": "---------"
+  },
+  "titleBottomSheet": "Your order",
+  "reboot": "Reboot",
+  "placeAnOrderBottomSheet": "Place an order",
+  "chooseAddress": "Choose the address of the coffee shop",
+  "orderCreated": "The order has been created!",
+  "errorOrder": "An error occurred when placing an order!",
+  "@segmentMapScreen": {
+    "---------": "---------"
+  },
+  "selectMapScreenBottomSheet": "Choose",
+  "ourCoffeeShops": "Our coffee shops"
+}

@@ -1,0 +1,80 @@
+name: coffee_mania
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.3.4 <4.0.0'
+
+dependencies:
+  equatable: ^2.0.5
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+  flutter_svg: ^2.0.7
+  intl: ^0.19.0
+  keyboard_dismisser: ^3.0.0
+  flutter_dotenv: ^5.1.0
+  cached_network_image: ^3.3.0
+  json_annotation: ^4.9.0
+  cupertino_icons: ^1.0.6
+  flutter_riverpod: ^2.6.1
+  infinite_scroll_pagination: ^4.0.0
+  sliver_tools: ^0.2.12
+  connectivity_plus: ^6.0.3
+  top_snackbar_flutter: ^3.1.0
+  injectable: ^2.4.2
+  injectable_generator: ^2.6.1
+  get_it: ^7.7.0
+  dio: ^5.7.0
+  flutter_hooks: ^0.20.5
+  hooks_riverpod: ^2.6.1
+  scrollable_positioned_list: ^0.3.8
+  sqflite: ^2.4.0
+  flutter_cache_manager: ^3.4.1
+  fluttertoast: ^8.2.8
+  yandex_mapkit: ^4.1.0
+  geolocator: ^13.0.1
+  permission_handler: ^11.3.1
+  shared_preferences: ^2.3.3
+  riverpod_annotation: ^2.6.1
+
+  coffee_repository:
+    path: ./packages/coffee_repository
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  build_runner: ^2.4.9
+  flutter_launcher_icons: ^0.13.1
+  flutter_lints: ^3.0.0
+  riverpod_generator: ^2.0.0
+  json_serializable: ^6.8.0
+
+flutter_launcher_icons:
+  android: "launcher_icon"
+  image_path: "assets/icons/app_icon.png"
+  min_sdk_android: 21
+
+flutter:
+  generate: true
+  uses-material-design: true
+
+  assets:
+    - assets/icons/
+    - assets/images/
+    - .env
+
+  fonts:
+    - family: Inter
+      fonts:
+        - asset: fonts/inter_bold.otf
+          weight: 700
+        - asset: fonts/inter_semi_bold.otf
+          weight: 600
+        - asset: fonts/inter_medium.otf
+          weight: 500
+        - asset: fonts/inter_regular.otf
+          weight: 400
