@@ -17,6 +17,9 @@ class CustomButton extends StatelessWidget {
     return TextButton(
       onPressed: onPressed,
       style: ButtonStyle(
+        minimumSize: WidgetStateProperty.all(
+          const Size(double.infinity, 24),
+        ),
         padding: const WidgetStatePropertyAll(EdgeInsets.all(16)),
         backgroundColor: WidgetStatePropertyAll(context.colorsExt.accentColor),
         shape: WidgetStatePropertyAll(
