@@ -55,7 +55,7 @@ class _CoffeeShopMapScreenState extends ConsumerState<CoffeeShopMapScreen> {
         );
       }),
       MapPoint(
-        name: 'Текущее положение',
+        name: context.tr.currentPosition,
         latitude: location.value!.lat,
         longitude: location.value!.long,
         image: Assets.imagesCurrentLocation,
@@ -71,7 +71,7 @@ class _CoffeeShopMapScreenState extends ConsumerState<CoffeeShopMapScreen> {
     return _getMapPoints(locations)
         .map(
           (pointCoffeeShop) => PlacemarkMapObject(
-            mapId: MapObjectId('MapObject $pointCoffeeShop'),
+            mapId: MapObjectId('$pointCoffeeShop'),
             point: Point(
               latitude: pointCoffeeShop.latitude,
               longitude: pointCoffeeShop.longitude,
@@ -106,6 +106,7 @@ class _CoffeeShopMapScreenState extends ConsumerState<CoffeeShopMapScreen> {
                   long: point.longitude,
                 ),
               );
+              print('1 ${pointCoffeeShop != locations.last}');
             },
           ),
         )

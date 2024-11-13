@@ -13,5 +13,6 @@
     "---------": "---------"
   },
   "selectMapScreenBottomSheet": "Choose",
-  "ourCoffeeShops": "Our coffee shops"
+  "ourCoffeeShops": "Our coffee shops",
+  "currentPosition": "Current position"
 }
