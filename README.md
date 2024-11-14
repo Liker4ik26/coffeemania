@@ -9,10 +9,10 @@
 1. [Description](#description)
 2. [Features](#features)
 3. [Key Features](#key-features)
-4. [Installation and Setup]:(#installation-and-setup)
-5. [Technical Details]:(#technical-details)
-6. [Contributing to the Project]:(#contributing-to-the-project)
-7. [Contact]:(#contact)
+4. [Installation and Setup](#installation-and-setup)
+5. [Technical Details](#technical-details)
+6. [Contributing to the Project](#contributing-to-the-project)
+7. [Contact](#contact)
 
 ---
 
