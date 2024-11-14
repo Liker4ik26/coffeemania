@@ -6,13 +6,13 @@
 
 ## 📝 Table of Contents
 
-1. [Description](#Description)
-2. [Features](#Features)
-3. [Key Features](#Key-features)
-4. [Installation and Setup](#Installation-and-Setup)
-5. [Technical Details](#Technical-Details)
-6. [Contributing to the Project](#Contributing-to-the-Project)
-7. [Contact](#Contact)
+1. [Description](#description)
+2. [Features](#features)
+3. [Key Features](#key-features)
+4. [Installation and Setup](#installation-and-setup)
+5. [Technical Details](#technical-details)
+6. [Contributing to the Project](#contributing-to-the-project)
+7. [Contact](#contact)
 
 ---
 
