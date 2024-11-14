@@ -181,7 +181,7 @@ Thank you for your help! 🌟
 ## 📬 Contact
 
 - **Developer**: Angelika Semenova
-- **GitHub**: [github.com/your-account](https://github.com/Liker4ik26)
+- **GitHub**: [github](https://github.com/Liker4ik26)
 
 ---
 
