@@ -16,7 +16,7 @@
 
 ---
 
-##  Description 📌
+## 📌 description 
 
 **Coffeemania** is a mobile app developed using **Flutter**, designed for the convenient and fast ordering of coffee and other beverages. It creates a unique experience for users by offering not only the ability to choose their favorite drinks but also to find the nearest coffee shops on the map for placing an order, significantly simplifying the process of getting their desired coffee.
 
@@ -26,7 +26,7 @@
 
 ---
 
-##  Features 🚀
+## 🚀 Features 
 
 - **User-friendly Interface** 🖥️ Intuitive design with easy navigation makes ordering your favorite coffee fast and simple.
 - **Map-based Coffee Shop Finder** 🗺️ Easily find nearby coffee shops on the map and place your order directly from the app.
