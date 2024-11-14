@@ -160,6 +160,7 @@ In addition to the map view, Coffeemania provides a list view of nearby coffee s
 - **Riverpod** — for state management
 - **Realm** — for storing cart items
 - **Navigator** — for project navigation
+-  **Dio** — for making network requests
 - **Flutter_cache_manager** — for caching cart items
 - **Shared_preferences** — for storing user address
 - **Injectable** — for Dependency Injection (DI)
