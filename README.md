@@ -10,12 +10,16 @@
 
 ## Как выглядит проект
 
-| Интерфейс | Сценарии |
-| :---: | :---: |
-| <img src="https://github.com/user-attachments/assets/881941f9-bb7e-4888-b45f-69d4f74376da" alt="Order Placement Example (Light Theme)" width="340"/><br/>Экран 1 | <img src="https://github.com/user-attachments/assets/d7047cd7-cc8e-4851-9346-97c2907d24cf" alt="Order Placement Example (Dark Theme)" width="340"/><br/>Экран 2 |
-| <img src="https://github.com/user-attachments/assets/90b5d11c-8498-4158-800f-169f8aa2b007" alt="Product Quantity Selection (Light Theme)" width="340"/><br/>Экран 3 | <img src="https://github.com/user-attachments/assets/8a4df6f7-716d-4485-aeff-698d212a4ea9" alt="Clear Cart Option (Light Theme)" width="340"/><br/>Экран 4 |
 
-[Все изображения проекта](docs/GALLERY.md)
+
+### Видеодемонстрации
+
+- [Order Placement Example (Light Theme)](https://github.com/user-attachments/assets/881941f9-bb7e-4888-b45f-69d4f74376da)
+- [Order Placement Example (Dark Theme)](https://github.com/user-attachments/assets/d7047cd7-cc8e-4851-9346-97c2907d24cf)
+- [Product Quantity Selection (Light Theme)](https://github.com/user-attachments/assets/90b5d11c-8498-4158-800f-169f8aa2b007)
+- [Clear Cart Option (Light Theme)](https://github.com/user-attachments/assets/8a4df6f7-716d-4485-aeff-698d212a4ea9)
+
+[Все демонстрации проекта](docs/GALLERY.md)
 
 ## Что в проекте
 
